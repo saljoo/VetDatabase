@@ -1,0 +1,4 @@
+Asiakasnumero: 11111, Nimi: Kisse, Laji: Kissa, Syntymäaika: 25.3.2021, Käynnin syy: Rokotus
+Asiakasnumero: 22222, Nimi: Kilu, Laji: Laiskiainen, Syntymäaika: 23.4.2018, Käynnin syy: Liiallinen laiskuus
+Asiakasnumero: 12345, Nimi: Musti, Laji: Koira, Syntymäaika: 12.7.2020, Käynnin syy: Luu kurkussa
+Asiakasnumero: 12222, Nimi: Mustikka, Laji: Sisilisko, Syntymäaika: 5.4.2019, Käynnin syy: Hännän korjausleikkaus
